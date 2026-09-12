@@ -33,6 +33,9 @@ Instead of manually reviewing long conversations, Pulse turns unstructured commu
 ### Dashboard
 
 ![Pulse Dashboard](./conversation%20pulse%20%20screenshot.png)
+### Conversation Analysis
+
+![Pulse Conversation Analysis](./analysis-result.png)
 
 ## 🔄 How It Works
 
