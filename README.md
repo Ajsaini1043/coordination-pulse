@@ -28,6 +28,12 @@ Instead of manually reviewing long conversations, Pulse turns unstructured commu
 - 📱 Responsive interface for different screen sizes
 - 🛡️ Safe API and error handling
 
+  ## Screenshots
+
+### Dashboard
+
+![Pulse Dashboard](conversation pulse screenshot.png)
+
 ## 🔄 How It Works
 
 ```text
